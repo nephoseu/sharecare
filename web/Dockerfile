@@ -1,4 +1,4 @@
-# 1. pick a base image
+# 1. pick a node 11.13.0-alpine image
 
 # 2. create destination directory
 
