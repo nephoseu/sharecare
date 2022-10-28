@@ -1,4 +1,4 @@
-# 1. pick a base image
+# 1. pick a Node 16 image
 
 # 2. set a working directory
 
